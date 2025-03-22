@@ -4,7 +4,9 @@ date: 2024-10-07 08:16:26
 tags:
 ---
 Bonjour! It's my easy guideline to start with github!
-
+--- Update after 42 piscine
+I've learnt a lot from the piscine, with git being a crucial tool.
+虽然我有时候会忘记git push（甚至是在考试中）
 ## Init
 ``` bash
 mkdir new_project
